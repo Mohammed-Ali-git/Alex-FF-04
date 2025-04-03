@@ -15,6 +15,6 @@ element_type = array.dtype
 
 print("Type of elements in array:", element_type)
  
-Alex FF 04 no 1 !!!
+Alex FF 
 
 
